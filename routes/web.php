@@ -11,10 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/frontend','FrontendController@index');
+
+Route::get('/','FrontendController@index');
 Route::get('/skills','FrontendController@skills');
 Route::get('/portfolio','FrontendController@portfolio');
 

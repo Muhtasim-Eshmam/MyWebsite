@@ -61,7 +61,7 @@ body{
 	padding: 5px 15px 0px 15px;
 }
 .top-menu ul li a{
-	font-size: 1.1em;
+	font-size: 1.3em;
 	color: #fff;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -223,9 +223,13 @@ ul.wmuSliderPagination {
 	font-size: 15px;
 	color: #7e7e7e;
 	padding: 25px 0;
+	text-align: justify;
+	display: block;
 }
 .services-sectiongrids {
 	text-align: center;
+	
+	
 }
 .services-grid h4 {
 	font-size: 1.3em;
@@ -270,6 +274,8 @@ ul.wmuSliderPagination {
 	font-size: 15px;
 	color: #fefefe;
 	padding: 25px 0;
+	text-align: justify;
+	display: block;
 }
 .portfolio-section{
 	background:#FFD670;
@@ -712,6 +718,23 @@ h2.resp-accordion {
 	font-weight: 400;
 	color: #ef664d;
 }
+
+.contact-header h5 {
+	font-size: 2em;
+	font-family: 'Arvo', serif;
+	text-transform: uppercase;
+	font-weight: 400;
+	color: #ef664d;
+}
+
+.contact-header h4 {
+	font-size: 1.5em;
+	font-family: 'Arvo', serif;
+	
+	font-weight: 400;
+	color: #ef664d;
+}
+
 .contact-header h3 span {
 color: #fefefe;
 }
@@ -720,7 +743,16 @@ color: #fefefe;
 	font-size: 15px;
 	color: #fefefe;
 	padding: 25px 0;
+	text-align: justify;
+	display: block;
 }
+
+
+
+
+
+
+
 .social-icon {
 text-align: center;
 padding:30px 0;

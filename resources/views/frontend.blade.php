@@ -36,11 +36,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		   	<span class="menu"> </span>
 			<ul>
 			 	<nav class="cl-effect-5">
-				<li><a class="active" href="http://127.0.0.1:8000/frontend"><span data-hover="Home">home</span></a></li>
-				<li><a href="#about" class="scroll"><span data-hover="about">about</span></a></li>
-				<li><a href="#work" class="scroll"><span data-hover="work"><span>work</span></a></li>
-				<li><a href="#services" class="scroll"><span data-hover="services">services</span></a></li>
-				<li><a href="#contact" class="scroll"><span data-hover="contact">contact</span></a></li>
+				<li><a class="active" href="http://127.0.0.1:8000/frontend"><span data-hover="Home">Home</span></a></li>
+				<li><a href="#about" class="scroll"><span data-hover="Me">About </span></a></li>
+				<li><a href="#work" class="scroll"><span data-hover="Me?"><span>Why Hire</span></a></li>
+				<li><a href="#services" class="scroll"><span data-hover="Visit">Work History</span></a></li>
+				<li><a href="#contact" class="scroll"><span data-hover="Web">Projects</span></a></li>
         {{-- <li>
         <a href="" download>
           <img src="images/cv2021.jpg" alt="W3Schools" width="104" height="142">
@@ -73,8 +73,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   <article style="position: relative; width: 100%; opacity: 1;"> 
 				   	   	<div class="banner-wrap">
 				   	      <div class="banner_center">
-				   		 		<h1>I am a</h1> 
-				   		 		<h2><span>Graphic Designer &  Web developer</span></h2>
+				   		 		<h1>I have completed</h1> 
+									<h1>Bachelors in</h1> 
+				   		 		<h2><span>Software Engineering</span></h2>
 				   		 		<h2></h2>
 				   		 		</div>
 				   		  </div>
@@ -82,8 +83,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				   <article style="position: absolute; width: 100%; opacity: 0;">
 				   	  	<div class="banner-wrap">
 				   	       <div class="banner_center">
-				   		 		<h1>Explore </h1> 
-				   		 		<h2> to know more about <span> Me</span></h2>
+							<h1>I am a</h1> 
+							<h2><span>Graphic Designer &</span></h2>
+							<h2><span>A Web developer</span></h2>
 				   		 		<h2></h2>
 				   		 		</div>
 				   		 </div>
@@ -220,40 +222,40 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
   <div class="services-section" id="services">
     <div class="container"> 
     <div class="services-header">
-      <h3>services</h3>
-        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
-    </div>
+      <h3>Work History</h3>
+        <p>I have worked on many platforms and have earned expertise on several fields as well. Recently i have been working with Web Development and Design coding in Laravel.For frontend i use Bootstrap, js and ajax as needed. I have served 8 years as a Teacher Assistant and Tutor in renowned institutions after that i worked as a Graphic Designer at two institutions and i am currently building my Git with Web projects build to solve issues and on going critical system faults for coaching centers. Previously i have build web projects on Medical Health and Tuition Centers . I am also a freelancer on Fiverr and do video and photo editing for clients. I have also done content and article writing freelance.As a freelancer i have worked for foreign clients and guarenteed satisfaction on every level</p>
+    </div><br>
     <div class="services-sectiongrids">
+
       <div class="col-md-4 services-grid">
-        <img src="images/img1.png" alt=""/>
-        <h4>Webdesign</h4>
-        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
-      </div>
-      <div class="col-md-4 services-grid">
-        <img src="images/img2.png" alt=""/>
-        <h4>Graphic Design</h4>
-        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
-      </div>
-      <div class="col-md-4 services-grid">
-        <img src="images/img3.png" alt=""/>
         <h4>Web Development</h4>
-        <p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.</p>
+        <p>1 year experience with Laravel Framework and Bootstrap as Frontend</p>
+		<p>Have Completed a Full Course under PeopleNTech Bangladesh</p>
       </div>
-      <div class="services-sectiongrids">
-        <div class="col-md-4 services-grid">
-          <img src="images/img1.png" alt=""/>
-          <h4>Image and Video editing</h4>
-       
-        </div>
-        <div class="col-md-4 services-grid">
-          <img src="images/img2.png" alt=""/>
-          <h4>Social Media Marketing</h4>
-       
-        </div>
-        <div class="col-md-4 services-grid">
-          <img src="images/img3.png" alt=""/>
-          <h4>Freelancing</h4>
-       
+
+      <div class="col-md-4 services-grid">
+        <h4>Graphic Design</h4>
+        <p>Have Completed Courses under LEDP Bangladesh</p>
+		<p>Have worked for numerous small business and Facebook pages for 1.5years</p>
+      </div>
+
+      <div class="col-md-4 services-grid">
+        <h4>Tutoring</h4>
+        <p>8 years served as Tutor and TA in Academia Coaching Center</p>
+		<p>I provide tuitions to students of class 3 to 8 all subjects</p>
+      </div>
+  
+	  <div class="col-md-4 services-grid">
+        <h4>Social Media Marketing</h4>
+		<p>Have worked for numerous small business for 1 year</p>
+      </div>
+
+	  <div class="col-md-4 services-grid">
+        <h4>Freelancing</h4>
+		<p>Have been a freelancer for over 2years now have served clients on Fiverr , freelancer platform/p>
+      </div>
+
+	 
         </div>
       <div class="clearfix"></div>
       <div class="arrow1">
@@ -269,8 +271,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 	<div class="works-section" id="work" id="work">
 	   <div class="works-header">
-			<h3>Recent Works</h3>
-				<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. </p>
+			<h3>Why Hire Me?</h3>
+				<p>I have very useful set of skills, not only have i worked for numerous organizations I also have a very good understanding of development having completed my bachelors in the field of Software Engineering.I have freelancing and marketing knowledge which can prove very valuable. I have worked under experienced developers and faculties which has given me great knowlendge and complete skill set needed to be a successful developer along with ensuring client satisfaction. I have lead teams to complete tasks in very tough timelines and have improved overall management as I have participated in compititions. I have served as a tutor and assisted Teachers in educational institutions.I work very well under pressure and am always eager to learn new things to increase my skills set.Here are a few of my recent works..</p>
 		</div>
 		<div class="portfolio-section-bottom-row" id="portfolio">
 			<div class="container">
@@ -300,8 +302,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									  <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>Social Media Posts</span></li>
 									  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>Business cards</span></li>
 									  <li class="resp-tab-item" aria-controls="tab_item-2" role="tab"><span>Flyers</span></li>
-									  <li class="resp-tab-item" aria-controls="tab_item-3" role="tab"><span>Web design</span></li>
-									  <li class="resp-tab-item" aria-controls="tab_item-4" role="tab"><span>Photography</span></li>
+									  
 									  <div class="clearfix"></div>
 								  </ul>	
 								<div id="portfoliolist">
@@ -491,13 +492,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- portfolio-section-ends -->
 	
 	<div class="footer-section" id="contact" id="contact">
-			<div class="container"> 
+		<div class="container"> 
 			<div class="contact-header">
-				<h3> contact</h3>
-        <p><strong>Email</strong> : designermuhtasim@gmail.com</p>
-					<p><strong>Contact me </strong> : 01776495947</p>
-          <div class="footer-bottom">   <p> 	<a href="https://www.fiverr.com/muhtasimeshmam">Fiverr</a></p></div>
+				<h3> Web Projects</h3><br>
+				<h5> TutorsAid</h5>
+				<p>One of the recent projects I developed it was developed using laravel.The requirements were collected from teachers of renowned institutions and used to develop this project so that it solves all the problems they face everyday and give them a secured data storage system along with providing options to connect with students guardians through emails .The system also provides discuss panel for students.Further versions will be released soon.</p>
+				<p><strong>Github Link : </strong><a href="">Beign Updated..</a></p>
+
+				<h5> TutorTechBD</h5>
+				<p>This project was developed to tackle the problems of tuition providers and put an end to scamming tuition pages.It provides a perfect platform for students and tutors to find their suitable tuitions and also provides scammer details to save the users from further scam.It also provides a training unit for new tutors admin handles the fees to make sure it is fare for both sides.</p>
+				<p><strong>Github Link : </strong><a href="https://github.com/Muhtasim-Eshmam/TutorTechBd">TutorTechBd</a></p>
+				
+				<h5> MedTech</h5>
+				<p>During the pandemic it was very risky to visit hospital so I had developed a project to help us get solutions for common diseases and know more about the medicines we are to consume or we have to consume for cure. The Admin uploads information about doctors, medicines and cures we can access sitting at home and for that we dont have to visit hospitals.Also very helpful rural areas were there is a lack of good medical facilities.</p>
+				<p><strong>Github Link : </strong><a href="https://github.com/Muhtasim-Eshmam/medtech">MedTech</a></p>
 			</div>
+		  <!-- Gallery -->
 			<div class="social-icon">
         
 				<a href="https://www.facebook.com/muhtasim.rahman.315/"><i class="icon2"></i></a>
